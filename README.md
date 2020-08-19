@@ -20,7 +20,7 @@ Year = {2020}
 
 @InProceedings{KoenigCVPRW2017,
 Title = {{Fully Convolutional Region Proposal Networks for Multispectral Person Detection}},
-Author = {Daniel K{\"o}nig and Michael Adam and Christian Jarvers and Georg Layher and Heiko Neumann and Michael Teutsch},
+Author = {Daniel K{\\"o}nig and Michael Adam and Christian Jarvers and Georg Layher and Heiko Neumann and Michael Teutsch},
 Booktitle = {IEEE CVPR Workshops},
 Year = {2017}
 }
